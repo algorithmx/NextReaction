@@ -1,0 +1,13 @@
+name = "NextReaction"
+uuid = "9ec6c26b-1bda-4d6e-ab60-86524ff14843"
+authors = ["yunlonglian <algorithm.lian@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+PProf = "e4faabce-9ead-11e9-39d9-4379958e3056"
+Profile = "9abbd945-dff8-562f-b5e8-e1ebf5ef1b79"
+ProfileView = "c46f51b8-102a-5cf2-8d2c-8597cb0e0da7"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
